@@ -1,0 +1,11 @@
+# Core dependency (the only library imported by the notebook)
+pandas>=1.5
+
+# To run the notebook locally (not needed in Google Colab)
+notebook>=6.5
+ipykernel>=6.0
+
+# Optional: for the modelling steps in the roadmap (not used yet)
+# numpy>=1.23
+# scikit-learn>=1.2
+# matplotlib>=3.6
